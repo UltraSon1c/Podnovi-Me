@@ -1,0 +1,268 @@
+# Translation of Plugins - Speed Booster Pack - Stable (latest release) in Romanian
+# This file is distributed under the same license as the Plugins - Speed Booster Pack - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-04-13 09:19:51+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : (n==0 || (n%100 > 0 && n%100 < 20)) ? 1 : 2);\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: ro\n"
+"Project-Id-Version: Plugins - Speed Booster Pack - Stable (latest release)\n"
+
+#. Author URI of the plugin/theme
+msgid "http://tiguandesign.com"
+msgstr "http://tiguandesign.com"
+
+#. Author of the plugin/theme
+msgid "Tiguan"
+msgstr "Tiguan"
+
+#. Description of the plugin/theme
+msgid "Speed Booster Pack allows you to improve your page loading speed and get a higher score on the major speed testing services such as <a href=\"http://gtmetrix.com/\">GTmetrix</a>, <a href=\"http://developers.google.com/speed/pagespeed/insights/\">Google PageSpeed</a> or other speed testing tools."
+msgstr "Speed Booster Pack permite să-ți îmbunătățești viteza de încărcare a paginilor și să obții un scor mai mare pe serviciile majore de testare a vitezei, cum ar fi  <a href=\"http://gtmetrix.com/\">GTmetrix</a>, <a href=\"http://developers.google.com/speed/pagespeed/insights/\">Google PageSpeed</a> sau pe alte instrumente de testare a vitezei."
+
+#. Plugin URI of the plugin/theme
+msgid "http://wordpress.org/plugins/speed-booster-pack/"
+msgstr "http://wordpress.org/plugins/speed-booster-pack/"
+
+#. Plugin Name of the plugin/theme
+msgid "Speed Booster Pack"
+msgstr "Speed Booster Pack"
+
+#: inc/template/options.php:420
+msgid "Released date:"
+msgstr "Data lansării:"
+
+#: inc/template/options.php:413
+msgid "Installed Version:"
+msgstr "Versiune instalată:"
+
+#: inc/template/options.php:402
+msgid "Version Information"
+msgstr "Informații despre versiune"
+
+#: inc/template/options.php:396
+msgid " with guidelines to enhance your website performance."
+msgstr "cu îndrumări pentru a îmbunătăți performanța sitului tău."
+
+#: inc/template/options.php:396
+msgid "Read online plugin documentation"
+msgstr "Citește online documentația pentru modul"
+
+#: inc/template/options.php:386
+msgid "What do these settings mean?"
+msgstr "Ce înseamnă aceste setări?"
+
+#: inc/template/options.php:365
+msgid "this option will eliminate render-blocking CSS warning in Google Page Speed test. If there is something broken after activation, you need to disable this option. Please note that before enabling this sensitive option, it is strongly recommended that you also enable the \"Move scripts to the footer\" option."
+msgstr "această opţiune va elimina mesajul render-blocking CSS din Google Page Speed. Dacă observi că ceva nu merge după activare, va trebui să dezactivezi această opţiune. Te rog să notezi că înainte de activarea acestei opţiuni sensibile, este neapărat necesar că şi opţiunea de mutare a scripturilor în footer trebuie să fie activă."
+
+#: inc/template/options.php:365
+msgid "Insert all CSS styles inline to the footer: "
+msgstr "Inserează în-linie toate stilurile CSS în subsol:"
+
+#: inc/template/options.php:364
+msgid "Additional information:"
+msgstr "Informații suplimentare:"
+
+#: inc/template/options.php:346
+msgid "CSS Handle"
+msgstr "Handle pentru CSS"
+
+#: inc/template/options.php:340
+msgid "As a guidance, here is a list of css handles of each enqueued style detected by our plugin:"
+msgstr "Orientativ, aici este o listă cu toate handle-urile CSS detectate de pluginul nostru:"
+
+#: inc/template/options.php:333
+msgid "Enter one by line, the handles of css files or the final part of the style URL. For example: <code>font-awesome</code> or <code>font-awesome.min.css</code>"
+msgstr "Introdu câte una pe linie, denumirile fişierelor CSS sau partea finală a URL-ului acestora. De exemplu: <code>font-awesome</code> sau <code>font-awesome.min.css</code>"
+
+#: inc/template/options.php:330
+msgid "Exclude styles from asynchronously option: "
+msgstr "Exclude stiluri de la opţiunea \"Încărcare CSS în mod asincron\""
+
+#: inc/template/options.php:325
+msgid "Disable all above CSS options on mobile devices"
+msgstr "Dezactivează toate opţiunile CSS de mai sus pentru dispozitivele mobile"
+
+#: inc/template/options.php:320
+msgid "Insert all CSS styles inline to the footer"
+msgstr "Mută toate stilurile CSS în linie în footer"
+
+#: inc/template/options.php:313
+msgid "Minify all CSS styles"
+msgstr "Comprimă toate fişierele CSS"
+
+#: inc/template/options.php:305
+msgid "Load CSS asynchronously"
+msgstr "Încărcare CSS în mod asincron"
+
+#: inc/template/options.php:299
+msgid "Still need more speed?"
+msgstr "Încă ai nevoie de mai multă viteză?"
+
+#: inc/template/options.php:289
+msgid "Note that any changes you make will only affect new images uploaded to your site. If you want to update all of your images with the new sizes, install and run the Regenerate Thumbnails plugin. As a reference, a lower level of compression means more performance. We recommend you choose a compression level between 50 and 75."
+msgstr "Reţine că după alegerea nivelului de compresie, modificările vor afecta numai imaginile noi încărcate pe site. Dacă doreşti să actualizezi toate imaginile la noul nivel de compresie, instalează şi rulează plugin-ul Regenerate Thumbnails. Că referinţă, un nivel mai scăzut de comprimare înseamnă mai multă performanţă a site-ului. Îţi recomandăm să alegi un nivel de compresie cu valorea cuprinsă între 50 şi 75."
+
+#: inc/template/options.php:286
+msgid "The default image compression setting in WordPress is 90%. Compressing your images further than the default will make your file sizes even smaller and will boost your site performance."
+msgstr "Nivelul implicit de comprimare a imaginilor în WordPress este de 90%. Comprimarea imaginilor la un nivel mai mare decât nivelul implicit va micşora dimensiunile fişierelor şi va stimula performanta site-ului tău."
+
+#: inc/template/options.php:277
+msgid "Compression level:"
+msgstr "Nivelul de compresie:"
+
+#: inc/template/options.php:265
+msgid "Change the default image compression level"
+msgstr "Schimbă nivelul de compresie al imaginilor"
+
+#: inc/template/options.php:257
+msgid "Enter one by text field, the final part of the js files that you want to be excluded from defer parsing option. For example: <code>jquery.min.js</code> If you want to exclude more than 4 scripts, your page score will be hit and therefore the use of \"Defer parsing of javascript files\" option will become useless so you can disable it"
+msgstr "Introdu câte una pe linie, partea finală a fişierelor JS pe care vrei să le excluzi de la opţiunea \"Amână analizarea fişierelor javascript\" De exemplu: <code>jquery.min.js</code> Dacă doreşti să excluzi mai mult de 4 script-uri, scorul pagini va avea de suferit şi, prin urmare, utilizarea opţiunii  \"Amână analizarea fişierelor javascript \" va deveni inutilă, şi o poţi dezactiva."
+
+#: inc/template/options.php:233
+msgid "Exclude scripts from being deferred"
+msgstr "Exclude script-uri de la opţiunea \"Amână analizarea fişierelor javascript\""
+
+#: inc/template/options.php:225 inc/template/options.php:358
+msgid "*The list may be incomplete in some circumstances."
+msgstr "* Lista poate fi incompletă în anumite circumstanțe."
+
+#: inc/template/options.php:207
+msgid "Script Path"
+msgstr "Calea scriptului"
+
+#: inc/template/options.php:200
+msgid "As a guidance, here is a list of script handles and script paths of each enqueued script detected by our plugin:"
+msgstr "Orientativ, aici este o listă cu toate handle-urile JS si calea acestora, detectate de pluginul nostru:"
+
+#: inc/template/options.php:195
+msgid "If you want to exclude more than 4 scripts, your page score will be hit and therefore the use of \"Move scripts to footer\" option will become useless so you can disable it."
+msgstr "Dacă doreşti să excluzi mai mult de 4 script-uri, scorul paginii va avea de suferit şi, prin urmare, utilizarea opţiunii \"Mută script-uri în footer \" va deveni inutilă, şi o poţi dezactiva."
+
+#: inc/template/options.php:195
+msgid "on this option on plugin documentation."
+msgstr "cu privire la această opțiune în documentația modulului."
+
+#: inc/template/options.php:195
+msgid "detailed instructions"
+msgstr "instrucțiuni detaliate"
+
+#: inc/template/options.php:195
+msgid "Read more"
+msgstr "Citește mai mult"
+
+#: inc/template/options.php:195
+msgid "Enter one js handle per text field, in the left area and the correspondent html script in the right text fields."
+msgstr "Introdu un cod JS per câmp de text în zona din stânga și scriptul html corespondent în câmpurile de text din dreapta."
+
+#: inc/template/options.php:172
+msgid "Copy the HTML code of the script from your page source and add it below"
+msgstr "Copiaţi codul HTML al script-ului din sursa paginii, şi adăugaţi-l mai jos"
+
+#: inc/template/options.php:149 inc/template/options.php:206
+msgid "Script Handle"
+msgstr "Script Handle"
+
+#: inc/template/options.php:143
+msgid "Exclude scripts from being moved to the footer"
+msgstr "Exclude script-uri de la opţiunea \"Muta script-uri in footer\""
+
+#: inc/template/options.php:132
+msgid "Active Plugins:"
+msgstr "Module active:"
+
+#: inc/template/options.php:131
+msgid "Peak Memory Used:"
+msgstr "Memoria folosită"
+
+#: inc/template/options.php:126
+msgid "q"
+msgstr "q"
+
+#: inc/template/options.php:118
+msgid "Number of executed queries:"
+msgstr "Numărul de interogări (queries) executate:"
+
+#: inc/template/options.php:114
+msgid "s"
+msgstr "q"
+
+#: inc/template/options.php:106
+msgid "Page loading time in seconds:"
+msgstr "Timpul de încărcare a paginii în secunde:"
+
+#: inc/template/options.php:104
+msgid "Home Page Load Stats"
+msgstr "Încărcarea paginii de bază"
+
+#: inc/template/options.php:96
+msgid "Remove all rss feed links"
+msgstr "Elimină toate link-urile RSS feed"
+
+#: inc/template/options.php:91
+msgid "Remove the WordPress Version"
+msgstr "Elimină versiunea WordPress"
+
+#: inc/template/options.php:86
+msgid "Remove Windows Manifest"
+msgstr "Elimină Windows Manifest"
+
+#: inc/template/options.php:81
+msgid "Remove Adjacent Posts Links"
+msgstr "Elimină Adjacent Posts Links"
+
+#: inc/template/options.php:76
+msgid "Remove WordPress Shortlink"
+msgstr "Elimină WordPress Shortlink"
+
+#: inc/template/options.php:71
+msgid "Remove RSD Link"
+msgstr "Elimină linkul RSD"
+
+#: inc/template/options.php:67
+msgid "Remove junk header tags"
+msgstr "Elimină tag-urile inutile din header"
+
+#: inc/template/options.php:60
+msgid "Removes extra Font Awesome styles"
+msgstr "Elimină extra Font Awesome CSS"
+
+#: inc/template/options.php:55
+msgid "Lazy load images to improve speed"
+msgstr "Întârzie încărcarea imaginilor"
+
+#: inc/template/options.php:50
+msgid "Remove query strings"
+msgstr "Elimină versiunea fisierelor"
+
+#: inc/template/options.php:45
+msgid "Defer parsing of javascript files"
+msgstr "Amână analizarea fişierelor javascript"
+
+#: inc/template/options.php:40
+msgid "Load JS from Google Libraries"
+msgstr "Încarcă JS din Google Libraries"
+
+#: inc/template/options.php:35
+msgid "Move scripts to the footer"
+msgstr "Mută scripturile în subsol"
+
+#: inc/template/options.php:31
+msgid "Main plugin options"
+msgstr "Opțiuni principale modul"
+
+#: inc/template/options.php:23
+msgid "General options"
+msgstr "Opțiuni generale"
+
+#: inc/template/options.php:19
+msgid "Boost Your Website Speed!"
+msgstr "Sporește-ți viteza sitului!"
+
+#: inc/settings.php:198
+msgid "You do not have sufficient permissions to access this page."
+msgstr "Nu ai permisiuni suficiente pentru a accesa această pagină."
