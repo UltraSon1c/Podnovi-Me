@@ -1,0 +1,2090 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco - https://localise.biz/\n"
+"Project-Id-Version: wpAMP\n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION\n"
+"POT-Creation-Date: 2017-07-24 17:04+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE"
+
+#: class/configcheck.php:265
+msgid " the endpoint is not hosted on <strong>HTTPS</strong>"
+msgstr ""
+
+#: class/configcheck.php:293
+msgid " and "
+msgstr ""
+
+#: config/customize.cfg.php:27
+msgid "Page layout"
+msgstr ""
+
+#: config/customize.cfg.php:35
+msgid "Search box"
+msgstr ""
+
+#: config/customize.cfg.php:42
+msgid "Search box location"
+msgstr ""
+
+#: config/customize.cfg.php:43
+msgid "Select whether to display search box on AMP pages."
+msgstr ""
+
+#: config/customize.cfg.php:50 config/customize.cfg.php:85
+#: config/customize.cfg.php:1688 config/user.cfg.php:691
+#: config/user.cfg.php:1672
+msgid "None"
+msgstr ""
+
+#: config/customize.cfg.php:51 config/customize.cfg.php:86
+#: config/customize.cfg.php:1690
+msgid "Before content"
+msgstr ""
+
+#: config/customize.cfg.php:52 config/customize.cfg.php:87
+#: config/customize.cfg.php:1691
+msgid "After content"
+msgstr ""
+
+#: config/customize.cfg.php:53 config/customize.cfg.php:88
+msgid "Top of header"
+msgstr ""
+
+#: config/customize.cfg.php:54 config/customize.cfg.php:89
+msgid "Bottom of header"
+msgstr ""
+
+#: config/customize.cfg.php:55
+msgid "Top of menu"
+msgstr ""
+
+#: config/customize.cfg.php:56
+msgid "Bottom of menu"
+msgstr ""
+
+#: config/customize.cfg.php:66
+msgid "Language switcher"
+msgstr ""
+
+#: config/customize.cfg.php:77
+msgid "Language switcher location"
+msgstr ""
+
+#: config/customize.cfg.php:78
+msgid "Select whether to display a language switcher on AMP pages."
+msgstr ""
+
+#: config/customize.cfg.php:98
+msgid "Language switcher layout"
+msgstr ""
+
+#: config/customize.cfg.php:99
+msgid "Select how the language switcher should be laid out on AMP pages."
+msgstr ""
+
+#: config/customize.cfg.php:106
+msgid "Flags"
+msgstr ""
+
+#: config/customize.cfg.php:107
+msgid "Names"
+msgstr ""
+
+#: config/customize.cfg.php:108
+msgid "Names (horizontal)"
+msgstr ""
+
+#: config/customize.cfg.php:109
+msgid "Flags and names"
+msgstr ""
+
+#: config/customize.cfg.php:110
+msgid "Dropdown of names"
+msgstr ""
+
+#: config/customize.cfg.php:120
+msgid "Link to main site"
+msgstr ""
+
+#: config/customize.cfg.php:127
+msgid "Show link to main site"
+msgstr ""
+
+#: config/customize.cfg.php:135
+msgid "As an AMP notification"
+msgstr ""
+
+#: config/customize.cfg.php:136
+msgid "Do not show"
+msgstr ""
+
+#: config/customize.cfg.php:137
+msgid "Top of page"
+msgstr ""
+
+#: config/customize.cfg.php:138
+msgid "Bottom of page"
+msgstr ""
+
+#: config/customize.cfg.php:139
+msgid "Top and bottom of page"
+msgstr ""
+
+#: config/customize.cfg.php:149
+msgid "Message text"
+msgstr ""
+
+#: config/customize.cfg.php:150
+msgid ""
+"This text will be displayed on each AMP pages, normally to inform them that "
+"they are looking at an AMP page. You can enter raw HTML, so be very careful "
+"with your entry."
+msgstr ""
+
+#: config/customize.cfg.php:172
+msgid "Link text"
+msgstr ""
+
+#: config/customize.cfg.php:173
+msgid ""
+"If you have entered some text above to inform your users, you can add here "
+"the text for a link that goes to your standard, non-amp main site."
+msgstr ""
+
+#: config/customize.cfg.php:195
+msgid "Link theme"
+msgstr ""
+
+#: config/customize.cfg.php:196 config/customize.cfg.php:328
+msgid "Choose the theme that matches best your website colors."
+msgstr ""
+
+#: config/customize.cfg.php:208 config/customize.cfg.php:338
+#: config/customize.cfg.php:1811
+msgid "Dark"
+msgstr ""
+
+#: config/customize.cfg.php:209 config/customize.cfg.php:339
+#: config/customize.cfg.php:1812
+msgid "Light"
+msgstr ""
+
+#: config/customize.cfg.php:219
+msgid "Footer"
+msgstr ""
+
+#: config/customize.cfg.php:226
+msgid "Show footer"
+msgstr ""
+
+#: config/customize.cfg.php:227 config/customize.cfg.php:271
+#: config/customize.cfg.php:958 config/user.cfg.php:126 config/user.cfg.php:141
+#: config/user.cfg.php:156 config/user.cfg.php:171 config/user.cfg.php:186
+#: config/user.cfg.php:201 config/user.cfg.php:465 config/user.cfg.php:505
+#: config/user.cfg.php:574 config/user.cfg.php:768 config/user.cfg.php:786
+#: config/user.cfg.php:1526 config/user.cfg.php:1541 config/user.cfg.php:1555
+#: config/user.cfg.php:1685
+msgid "Enabled"
+msgstr ""
+
+#: config/customize.cfg.php:228
+msgid ""
+"If enabled, the footer content you create in next field will be displayed on "
+"all AMP pages."
+msgstr ""
+
+#: config/customize.cfg.php:241
+msgid "Footer text"
+msgstr ""
+
+#: config/customize.cfg.php:242
+msgid ""
+"This text will be displayed at the bottom of all AMP pages. You can enter "
+"raw HTML, so be very careful in your entry. Tip: use the shortcode "
+"[weeblramp_current_year], it will be replaced by the current year. Useful "
+"for copyright mention!"
+msgstr ""
+
+#: config/customize.cfg.php:263
+msgid "User notification"
+msgstr ""
+
+#: config/customize.cfg.php:270
+msgid "User notifications"
+msgstr ""
+
+#: config/customize.cfg.php:272
+msgid ""
+"If enabled, a user notification will be displayed on AMP Pages. Fill the "
+"text to display in next fields."
+msgstr ""
+
+#: config/customize.cfg.php:285
+msgid "Notification text"
+msgstr ""
+
+#: config/customize.cfg.php:286
+msgid ""
+"This text will be used to display a user notification on page load. You can "
+"enter raw HTML, so be very careful in your entry."
+msgstr ""
+
+#: config/customize.cfg.php:306
+msgid "Notification button text"
+msgstr ""
+
+#: config/customize.cfg.php:307
+msgid ""
+"If you have entered some text above to display a user notification, you can "
+"add here the text for a button ('I agree' or 'Dismiss' for instance). If not "
+"empty, the notification will be displayed to user until they click on the "
+"button."
+msgstr ""
+
+#: config/customize.cfg.php:327
+msgid "Notification theme"
+msgstr ""
+
+#: config/customize.cfg.php:351 config/customize.cfg.php:359
+msgid "Page style"
+msgstr ""
+
+#: config/customize.cfg.php:366
+msgid "Maximum width"
+msgstr ""
+
+#: config/customize.cfg.php:367
+msgid ""
+"Enter the main page content maximum width, such as: <strong>640px</strong>."
+msgstr ""
+
+#: config/customize.cfg.php:384 config/customize.cfg.php:493
+#: config/customize.cfg.php:1049 config/customize.cfg.php:1122
+#: config/customize.cfg.php:1235 config/customize.cfg.php:1392
+#: config/customize.cfg.php:1461 config/customize.cfg.php:1530
+msgid "Background color"
+msgstr ""
+
+#: config/customize.cfg.php:385 config/customize.cfg.php:398
+#: config/customize.cfg.php:494 config/customize.cfg.php:507
+#: config/customize.cfg.php:520 config/customize.cfg.php:1050
+#: config/customize.cfg.php:1063 config/customize.cfg.php:1076
+#: config/customize.cfg.php:1089 config/customize.cfg.php:1102
+#: config/customize.cfg.php:1123 config/customize.cfg.php:1137
+#: config/customize.cfg.php:1150 config/customize.cfg.php:1163
+#: config/customize.cfg.php:1176 config/customize.cfg.php:1189
+#: config/customize.cfg.php:1202 config/customize.cfg.php:1215
+#: config/customize.cfg.php:1236 config/customize.cfg.php:1250
+#: config/customize.cfg.php:1263 config/customize.cfg.php:1276
+#: config/customize.cfg.php:1297 config/customize.cfg.php:1324
+#: config/customize.cfg.php:1337 config/customize.cfg.php:1393
+#: config/customize.cfg.php:1406 config/customize.cfg.php:1462
+#: config/customize.cfg.php:1475 config/customize.cfg.php:1531
+#: config/customize.cfg.php:1544
+msgid ""
+"Pick a color to use for this element. Use the Clear button (shown when the "
+"color selector is opened) to restore default color. "
+msgstr ""
+
+#: config/customize.cfg.php:397 config/customize.cfg.php:506
+#: config/customize.cfg.php:1062 config/customize.cfg.php:1136
+#: config/customize.cfg.php:1249 config/customize.cfg.php:1405
+#: config/customize.cfg.php:1474 config/customize.cfg.php:1543
+msgid "Text color"
+msgstr ""
+
+#: config/customize.cfg.php:411
+msgid "Header"
+msgstr ""
+
+#: config/customize.cfg.php:419
+msgid "Header layout"
+msgstr ""
+
+#: config/customize.cfg.php:426
+msgid "Minimum height"
+msgstr ""
+
+#: config/customize.cfg.php:427
+msgid ""
+"Enter the page header minimum height, using CSS syntax: <strong>"
+"100px</strong> or <strong>10em</strong>."
+msgstr ""
+
+#: config/customize.cfg.php:444
+msgid "Header image position"
+msgstr ""
+
+#: config/customize.cfg.php:445
+msgid "Choose a position for the header image."
+msgstr ""
+
+#: config/customize.cfg.php:451
+msgid "Default"
+msgstr ""
+
+#: config/customize.cfg.php:452
+msgid "Centered"
+msgstr ""
+
+#: config/customize.cfg.php:453 config/customize.cfg.php:1631
+msgid "Left"
+msgstr ""
+
+#: config/customize.cfg.php:463
+msgid "Header visuals"
+msgstr ""
+
+#: config/customize.cfg.php:470
+msgid "Header background image URL"
+msgstr ""
+
+#: config/customize.cfg.php:471
+msgid ""
+"Optional image to use as the <strong>background</strong> of the page header. "
+"Enter either a fully qualified URL (https://site.com/path/to/image.png) or a "
+"relative one (path/to/image.png)"
+msgstr ""
+
+#: config/customize.cfg.php:519
+msgid "Tag line color"
+msgstr ""
+
+#: config/customize.cfg.php:532 config/customize.cfg.php:1014
+#: config/customize.cfg.php:1357 config/customize.cfg.php:1426
+#: config/customize.cfg.php:1495
+msgid "Font family"
+msgstr ""
+
+#: config/customize.cfg.php:533 config/customize.cfg.php:1015
+#: config/customize.cfg.php:1358 config/customize.cfg.php:1427
+#: config/customize.cfg.php:1496
+msgid ""
+"Enter a CSS font specification, ie <strong>Roboto, sans-serif</strong>. If "
+"needed, use double-quote but <strong>no single quote</strong>."
+msgstr ""
+
+#: config/customize.cfg.php:549 config/customize.cfg.php:1032
+#: config/customize.cfg.php:1375 config/customize.cfg.php:1444
+#: config/customize.cfg.php:1513
+msgid "Font size"
+msgstr ""
+
+#: config/customize.cfg.php:550 config/customize.cfg.php:1033
+#: config/customize.cfg.php:1376 config/customize.cfg.php:1445
+#: config/customize.cfg.php:1514
+msgid ""
+"Enter a CSS font size specification, ie <strong>16px</strong> or <strong>"
+"1em</strong>."
+msgstr ""
+
+#: config/customize.cfg.php:569
+msgid "Content layout"
+msgstr ""
+
+#: config/customize.cfg.php:577
+msgid "Posts"
+msgstr ""
+
+#: config/customize.cfg.php:584 config/customize.cfg.php:681
+#: config/customize.cfg.php:724 config/customize.cfg.php:786
+#: config/customize.cfg.php:898
+msgid "Display options"
+msgstr ""
+
+#: config/customize.cfg.php:595 config/customize.cfg.php:692
+msgid "Show featured image"
+msgstr ""
+
+#: config/customize.cfg.php:601
+msgid "Show excerpt"
+msgstr ""
+
+#: config/customize.cfg.php:607
+msgid "Show info block"
+msgstr ""
+
+#: config/customize.cfg.php:613 config/customize.cfg.php:698
+#: config/customize.cfg.php:747 config/customize.cfg.php:809
+#: config/customize.cfg.php:909
+msgid "Show sharing buttons (if enabled globally)"
+msgstr ""
+
+#: config/customize.cfg.php:619
+msgid "Display content date as elapsed time (eg: published 2 weeks ago)"
+msgstr ""
+
+#: config/customize.cfg.php:625
+msgid "Show author avatar"
+msgstr ""
+
+#: config/customize.cfg.php:631
+msgid "Show author bio"
+msgstr ""
+
+#: config/customize.cfg.php:637
+msgid "Show author avatar on bio"
+msgstr ""
+
+#: config/customize.cfg.php:643
+msgid "Show links to author other posts"
+msgstr ""
+
+#: config/customize.cfg.php:649 config/customize.cfg.php:759
+#: config/customize.cfg.php:821 config/customize.cfg.php:921
+msgid "AMPlify pagination links"
+msgstr ""
+
+#: config/customize.cfg.php:655
+msgid "Show previous/next posts links"
+msgstr ""
+
+#: config/customize.cfg.php:661 config/customize.cfg.php:704
+#: config/customize.cfg.php:765 config/customize.cfg.php:827
+#: config/customize.cfg.php:927
+msgid "Show AMP content widgets"
+msgstr ""
+
+#: config/customize.cfg.php:674
+msgid "Pages"
+msgstr ""
+
+#: config/customize.cfg.php:717
+msgid "Categories & archives"
+msgstr ""
+
+#: config/customize.cfg.php:735 config/customize.cfg.php:797
+msgid "Show title"
+msgstr ""
+
+#: config/customize.cfg.php:741 config/customize.cfg.php:803
+msgid "Show description"
+msgstr ""
+
+#: config/customize.cfg.php:753 config/customize.cfg.php:815
+#: config/customize.cfg.php:915
+msgid "AMPlify title & read more links"
+msgstr ""
+
+#: config/customize.cfg.php:778 config/user.cfg.php:155
+msgid "Home page"
+msgstr ""
+
+#: config/customize.cfg.php:779
+msgid ""
+"These settings will only apply when pages or posts are displayed on the home "
+"page. For instance when using a WooCommerce shop as your home page, the "
+"WooCommerce integration settings will apply."
+msgstr ""
+
+#: config/customize.cfg.php:840
+msgid "Comments"
+msgstr ""
+
+#: config/customize.cfg.php:847
+msgid "Display options<br /><small>(WordPress comments)</small>"
+msgstr ""
+
+#: config/customize.cfg.php:858
+msgid "Show comments"
+msgstr ""
+
+#: config/customize.cfg.php:864
+msgid "Show avatars"
+msgstr ""
+
+#: config/customize.cfg.php:870
+msgid "Show Leave a comment form"
+msgstr ""
+
+#: config/customize.cfg.php:879
+msgid "Show reply to specific comment"
+msgstr ""
+
+#: config/customize.cfg.php:892
+msgid "Search results"
+msgstr ""
+
+#: config/customize.cfg.php:942 config/customize.cfg.php:1007
+msgid "Content style"
+msgstr ""
+
+#: config/customize.cfg.php:950
+msgid "Galleries style"
+msgstr ""
+
+#: config/customize.cfg.php:957
+msgid "Show thumbnails"
+msgstr ""
+
+#: config/customize.cfg.php:959
+msgid ""
+"If enabled, image carousels on AMP pages will also show a single line of "
+"clickable thumbnails, to quickly access a specific image."
+msgstr ""
+
+#: config/customize.cfg.php:972
+msgid "Thumbnails height"
+msgstr ""
+
+#: config/customize.cfg.php:973
+msgid ""
+"Enter a height in pixels, ie <strong>80</strong> or <strong>80px</strong>."
+msgstr ""
+
+#: config/customize.cfg.php:989
+msgid "Thumbnails width"
+msgstr ""
+
+#: config/customize.cfg.php:990
+msgid ""
+"Enter a width in pixels, ie <strong>80</strong> or <strong>80px</strong>."
+msgstr ""
+
+#: config/customize.cfg.php:1075
+msgid "Text hover color"
+msgstr ""
+
+#: config/customize.cfg.php:1088
+msgid "Summary text color"
+msgstr ""
+
+#: config/customize.cfg.php:1101
+msgid "Separator lines color"
+msgstr ""
+
+#: config/customize.cfg.php:1115
+msgid "Pagination style"
+msgstr ""
+
+#: config/customize.cfg.php:1149 config/customize.cfg.php:1262
+msgid "Hover background"
+msgstr ""
+
+#: config/customize.cfg.php:1162 config/customize.cfg.php:1275
+msgid "Hover text"
+msgstr ""
+
+#: config/customize.cfg.php:1175
+msgid "Current page background"
+msgstr ""
+
+#: config/customize.cfg.php:1188
+msgid "Current page text"
+msgstr ""
+
+#: config/customize.cfg.php:1201
+msgid "Title background"
+msgstr ""
+
+#: config/customize.cfg.php:1214
+msgid "Title text"
+msgstr ""
+
+#: config/customize.cfg.php:1228
+msgid "Read More style"
+msgstr ""
+
+#: config/customize.cfg.php:1289
+msgid "Links style"
+msgstr ""
+
+#: config/customize.cfg.php:1296
+msgid "Links color"
+msgstr ""
+
+#: config/customize.cfg.php:1310
+msgid "Links decoration"
+msgstr ""
+
+#: config/customize.cfg.php:1311
+msgid "Enter a CSS link text decoration style"
+msgstr ""
+
+#: config/customize.cfg.php:1323
+msgid "Links hover color"
+msgstr ""
+
+#: config/customize.cfg.php:1336
+msgid "Links visited color"
+msgstr ""
+
+#: config/customize.cfg.php:1350
+msgid "H1 headings style"
+msgstr ""
+
+#: config/customize.cfg.php:1419
+msgid "H2 headings style"
+msgstr ""
+
+#: config/customize.cfg.php:1488
+msgid "H3 headings style"
+msgstr ""
+
+#: config/customize.cfg.php:1559
+msgid "Menus"
+msgstr ""
+
+#: config/customize.cfg.php:1567
+msgid "Navigation"
+msgstr ""
+
+#: config/customize.cfg.php:1574
+msgid "Menu type"
+msgstr ""
+
+#: config/customize.cfg.php:1575
+msgid "Select whether to display a sidewise sliding menu or a dropdown menu."
+msgstr ""
+
+#: config/customize.cfg.php:1582
+msgid "Do not show menu"
+msgstr ""
+
+#: config/customize.cfg.php:1583
+msgid "Slide out sidebar"
+msgstr ""
+
+#: config/customize.cfg.php:1586
+msgid "Dropdown"
+msgstr ""
+
+#: config/customize.cfg.php:1596
+msgid "Menus to display"
+msgstr ""
+
+#: config/customize.cfg.php:1619
+msgid "Menu side"
+msgstr ""
+
+#: config/customize.cfg.php:1620
+msgid ""
+"Select whether to display any navigation menu on the left or right side."
+msgstr ""
+
+#: config/customize.cfg.php:1632
+msgid "Right"
+msgstr ""
+
+#: config/customize.cfg.php:1641
+msgid "Menu button text"
+msgstr ""
+
+#: config/customize.cfg.php:1642
+msgid ""
+"By default, a <i>hamburger</i> icon is displayed to open to menu. You can "
+"enter here some text that will replace the icon, such as <i>Menu</i> for "
+"instance."
+msgstr ""
+
+#: config/customize.cfg.php:1665
+msgid "Sharing buttons"
+msgstr ""
+
+#: config/customize.cfg.php:1673
+msgid "Location & type"
+msgstr ""
+
+#: config/customize.cfg.php:1680
+msgid "Location"
+msgstr ""
+
+#: config/customize.cfg.php:1681
+msgid ""
+"Select whether to hide social buttons bar, or display it after or before "
+"your article content."
+msgstr ""
+
+#: config/customize.cfg.php:1689
+msgid "After author info block"
+msgstr ""
+
+#: config/customize.cfg.php:1700
+msgid "Buttons type"
+msgstr ""
+
+#: config/customize.cfg.php:1701
+msgid ""
+"Static buttons are displayed faster (and still tracked with analytics). "
+"Using amp-social-share official AMP tag displays a bit slower, but may allow "
+"a nicer user experience and more networks."
+msgstr ""
+
+#: config/customize.cfg.php:1718
+msgid "Use amp-social-share"
+msgstr ""
+
+#: config/customize.cfg.php:1721
+msgid "Fully static"
+msgstr ""
+
+#: config/customize.cfg.php:1731
+msgid "Buttons to show"
+msgstr ""
+
+#: config/customize.cfg.php:1752
+msgid "Facebook share"
+msgstr ""
+
+#: config/customize.cfg.php:1757
+msgid "Tweet"
+msgstr ""
+
+#: config/customize.cfg.php:1762
+msgid "Google+ share"
+msgstr ""
+
+#: config/customize.cfg.php:1767
+msgid "LinkedIn"
+msgstr ""
+
+#: config/customize.cfg.php:1772
+msgid "Pinterest"
+msgstr ""
+
+#: config/customize.cfg.php:1777
+msgid "WhatsApp (needs static buttons)"
+msgstr ""
+
+#: config/customize.cfg.php:1789
+msgid "Styles"
+msgstr ""
+
+#: config/customize.cfg.php:1801
+msgid "Buttons theme"
+msgstr ""
+
+#: config/customize.cfg.php:1802
+msgid "Pick a color theme for the social icons."
+msgstr ""
+
+#: config/customize.cfg.php:1802 config/customize.cfg.php:1822
+msgid "Only used with <strong>static</strong> buttons."
+msgstr ""
+
+#: config/customize.cfg.php:1809
+msgid "Colors"
+msgstr ""
+
+#: config/customize.cfg.php:1810
+msgid "White"
+msgstr ""
+
+#: config/customize.cfg.php:1821
+msgid "Buttons style"
+msgstr ""
+
+#: config/customize.cfg.php:1822
+msgid "Pick a style for the social icons."
+msgstr ""
+
+#: config/customize.cfg.php:1828
+msgid "Rounded"
+msgstr ""
+
+#: config/customize.cfg.php:1829
+msgid "Squared"
+msgstr ""
+
+#: config/customize.cfg.php:1840
+msgid "Custom styles"
+msgstr ""
+
+#: config/customize.cfg.php:1848
+msgid "Custom CSS"
+msgstr ""
+
+#: config/customize.cfg.php:1855
+msgid "Raw AMP CSS"
+msgstr ""
+
+#: config/customize.cfg.php:1856
+msgid ""
+"You can enter here some CSS rules. They will be inserted in your AMP pages "
+"to alter its visual aspect. No control is done on the content you enter here,"
+" it will be inserted as-is. Be sure to double-check your entry."
+msgstr ""
+
+#: config/customize.cfg.php:1875
+msgid "Raw AMP links"
+msgstr ""
+
+#: config/customize.cfg.php:1876
+msgid ""
+"You can enter here some custom links, to be inserted in the HEAD section of "
+"the document (one per line). No control is done on the content you enter "
+"here, it will be inserted as-is. Be sure to double-check your entry."
+msgstr ""
+
+#: config/customize.cfg.php:1896
+msgid "Cleanup"
+msgstr ""
+
+#: config/customize.cfg.php:1904
+msgid "CSS cleanup"
+msgstr ""
+
+#: config/customize.cfg.php:1911
+msgid "Remove if CSS classes"
+msgstr ""
+
+#: config/customize.cfg.php:1912
+msgid ""
+"HTML elements with one or more of the CSS classes listed in this field will "
+"be removed from the final AMP page. You can use this to clean up content not "
+"suited for AMP. List one class per line. If an element must have 2 or more "
+"classes to be removed, list them on the same line."
+msgstr ""
+
+#: config/customize.cfg.php:1929
+msgid "Remove if CSS id"
+msgstr ""
+
+#: config/customize.cfg.php:1930
+msgid ""
+"HTML elements with the HTML id attribute listed in this field will be "
+"removed from the final AMP page. You can use this to clean up content not "
+"suited for AMP. List one id per line. No need for a leading # symbol."
+msgstr ""
+
+#: config/customize.cfg.php:1948
+msgid "Regular expressions cleanup"
+msgstr ""
+
+#: config/customize.cfg.php:1955
+msgid "Cleanup expressions"
+msgstr ""
+
+#: config/customize.cfg.php:1956
+msgid ""
+"Lines starting with a ; will not be used. Enter a single <strong>-</strong> "
+"character on the first line to disable this feature.<br />\n"
+"You can use this, for instance, to remove content that should be otherwise "
+"used by plugins not allowed on AMP pages. See the documentation for the "
+"default list of regular expressions."
+msgstr ""
+
+#: config/customize.cfg.php:1980 config/user.cfg.php:1732
+msgid "Upgrade"
+msgstr ""
+
+#: config/user.cfg.php:27
+msgid "Main"
+msgstr ""
+
+#: config/user.cfg.php:35
+msgid "Main settings"
+msgstr ""
+
+#: config/user.cfg.php:43
+msgid "Operation mode"
+msgstr ""
+
+#: config/user.cfg.php:44
+msgid ""
+"<strong>Development mode</strong>: AMP pages are enabled, but they are not "
+"advertised to search engines. Use this mode when setting things up, until "
+"you have validated your pages.<br /><strong>Normal</strong>: AMP pages are "
+"advertised to search engines, as separate pages from your site.<br /><strong>"
+"Standalone</strong>: the site is rendered entirely as AMP, there is no "
+"regular HTML version (experimental)."
+msgstr ""
+
+#: config/user.cfg.php:51 config/user.cfg.php:1673
+msgid "Normal"
+msgstr ""
+
+#: config/user.cfg.php:52
+msgid "Development"
+msgstr ""
+
+#: config/user.cfg.php:55
+msgid "Standalone"
+msgstr ""
+
+#: config/user.cfg.php:66
+msgid "Global theme"
+msgstr ""
+
+#: config/user.cfg.php:67
+msgid ""
+"Select a color theme for your AMP pages, from the list of weeblrAMP theme "
+"plugins installed and activated.<br /><strong>NB:</strong>The weeblrAMP "
+"Customizer handles the built-in display. Additional weeblrAMP themes can be "
+"customized using their own customizers only."
+msgstr ""
+
+#: config/user.cfg.php:73
+msgid "Default theme"
+msgstr ""
+
+#: config/user.cfg.php:88
+msgid "Select pages"
+msgstr ""
+
+#: config/user.cfg.php:96
+msgid "Items to AMPlify"
+msgstr ""
+
+#: config/user.cfg.php:105
+msgid "Post & pages types"
+msgstr ""
+
+#: config/user.cfg.php:106
+msgid ""
+"Select the pages on your site for which weeblrAMP should create an AMP "
+"version. If needed, you can also disable AMP version creation per category, "
+"tags, etc."
+msgstr ""
+
+#: config/user.cfg.php:125
+msgid "Categories"
+msgstr ""
+
+#: config/user.cfg.php:127 config/user.cfg.php:142
+msgid ""
+"If enabled links to categories, and categories display, will be AMPlified "
+"when possible."
+msgstr ""
+
+#: config/user.cfg.php:140
+msgid "Archives"
+msgstr ""
+
+#: config/user.cfg.php:157
+msgid "If enabled the home page itself will have an AMP version."
+msgstr ""
+
+#: config/user.cfg.php:170
+msgid "Tags"
+msgstr ""
+
+#: config/user.cfg.php:172
+msgid ""
+"If enabled links to tags pages, and tags pages display, will be AMPlified "
+"when possible."
+msgstr ""
+
+#: config/user.cfg.php:185
+msgid "Search page"
+msgstr ""
+
+#: config/user.cfg.php:187
+msgid ""
+"If enabled the WordPress search results page will be AMPlified when possible."
+msgstr ""
+
+#: config/user.cfg.php:200
+msgid "Author pages"
+msgstr ""
+
+#: config/user.cfg.php:202
+msgid ""
+"If enabled links to author pages, and author pages display, will be "
+"AMPlified when possible."
+msgstr ""
+
+#: config/user.cfg.php:218
+msgid "Metadata"
+msgstr ""
+
+#: config/user.cfg.php:226
+msgid "Site information"
+msgstr ""
+
+#: config/user.cfg.php:234
+msgid "Site name"
+msgstr ""
+
+#: config/user.cfg.php:235
+msgid ""
+"Enter a site name to be displayed on AMP pages. Will default to current site "
+"name."
+msgstr ""
+
+#: config/user.cfg.php:252
+msgid "Site tagline"
+msgstr ""
+
+#: config/user.cfg.php:253
+msgid ""
+"Enter a site description to be displayed on AMP pages. Will default to "
+"current site tag line."
+msgstr ""
+
+#: config/user.cfg.php:270
+msgid "Header image URL"
+msgstr ""
+
+#: config/user.cfg.php:271
+msgid ""
+"Optional image to use as a page header when displaying AMP pages. Enter "
+"either a fully qualified URL (https://site.com/path/to/image.png) or a "
+"relative one (path/to/image.png)"
+msgstr ""
+
+#: config/user.cfg.php:294
+msgid "Publisher information"
+msgstr ""
+
+#: config/user.cfg.php:302
+msgid "Publisher name"
+msgstr ""
+
+#: config/user.cfg.php:303
+msgid ""
+"Enter your organization name (not the author name), for use in AMP meta data."
+msgstr ""
+
+#: config/user.cfg.php:320
+msgid "Publisher URL"
+msgstr ""
+
+#: config/user.cfg.php:321
+msgid ""
+"Enter the fully qualified (eg: https://www.example.com) URL of the "
+"organization publishing the content. Defaults to the current site URL if not "
+"filled in."
+msgstr ""
+
+#: config/user.cfg.php:338
+msgid "Publisher ID"
+msgstr ""
+
+#: config/user.cfg.php:339
+msgid ""
+"Optionally enter your Google+ publisher id, to be included in all AMP pages."
+msgstr ""
+
+#: config/user.cfg.php:356
+msgid "Publisher image URL"
+msgstr ""
+
+#: config/user.cfg.php:357
+msgid ""
+"The logo image is required for AMP meta data. Enter either a fully qualified "
+"URL (https://site.com/path/to/image.png) or a relative one (path/to/image."
+"png)"
+msgstr ""
+
+#: config/user.cfg.php:381
+msgid "Fallback elements"
+msgstr ""
+
+#: config/user.cfg.php:389
+msgid "Page image fallback"
+msgstr ""
+
+#: config/user.cfg.php:390
+msgid ""
+"URL of an image to be used in case a page doesn't have an image associated "
+"with it. <strong>To be displayed in top stories</strong>, AMP pages must "
+"have an image associated with them, visible in the page or not. If we cannot "
+"find one, and you do not set up one explicitely, wbAMP will use this "
+"fallback image instead."
+msgstr ""
+
+#: config/user.cfg.php:413
+msgid "Document defaults"
+msgstr ""
+
+#: config/user.cfg.php:421
+msgid "Default article type"
+msgstr ""
+
+#: config/user.cfg.php:422
+msgid ""
+"Select the default article type to use for your AMP pages. You can override "
+"this value on each page with custom meta data shortcodes."
+msgstr ""
+
+#: config/user.cfg.php:428
+msgid "Article"
+msgstr ""
+
+#: config/user.cfg.php:429
+msgid "BlogPosting"
+msgstr ""
+
+#: config/user.cfg.php:430
+msgid "NewsArticle"
+msgstr ""
+
+#: config/user.cfg.php:431
+msgid "Photograph"
+msgstr ""
+
+#: config/user.cfg.php:432
+msgid "Recipe"
+msgstr ""
+
+#: config/user.cfg.php:433
+msgid "Review"
+msgstr ""
+
+#: config/user.cfg.php:434
+msgid "WebPage"
+msgstr ""
+
+#: config/user.cfg.php:448
+msgid "SEO"
+msgstr ""
+
+#: config/user.cfg.php:456
+msgid "Page description"
+msgstr ""
+
+#: config/user.cfg.php:464
+msgid "Open graph metadata"
+msgstr ""
+
+#: config/user.cfg.php:466
+msgid ""
+"If enabled, we will insert Open Graph meta data on AMP pages. OGP is used by "
+"Facebook and many others to describe page content."
+msgstr ""
+
+#: config/user.cfg.php:479
+msgid "Facebok App ID"
+msgstr ""
+
+#: config/user.cfg.php:480
+msgid "Your Facebook application ID."
+msgstr ""
+
+#: config/user.cfg.php:480
+msgid "Used when inserting OGP data or showing Facebook sharing buttons."
+msgstr ""
+
+#: config/user.cfg.php:504
+msgid "Twitter cards"
+msgstr ""
+
+#: config/user.cfg.php:506
+msgid ""
+"If enabled, we will insert Twitter cards meta data on AMP pages. This is "
+"used by Twitter and others to describe page content."
+msgstr ""
+
+#: config/user.cfg.php:519
+msgid "Cards type"
+msgstr ""
+
+#: config/user.cfg.php:520
+msgid "Choose which type of Twitter cards to use, when enabled."
+msgstr ""
+
+#: config/user.cfg.php:531
+msgid "Summary"
+msgstr ""
+
+#: config/user.cfg.php:532
+msgid "Summary with large image"
+msgstr ""
+
+#: config/user.cfg.php:542
+msgid "Twitter account"
+msgstr ""
+
+#: config/user.cfg.php:545
+msgid "The Twitter account to use when sharing content. For instance: @weeblr."
+msgstr ""
+
+#: config/user.cfg.php:546
+msgid "Used when inserting Twitter cards or showing Twitter tweet buttons."
+msgstr ""
+
+#: config/user.cfg.php:565
+msgid "Structured data (Schema.org)"
+msgstr ""
+
+#: config/user.cfg.php:573
+msgid "Insert schema.org data"
+msgstr ""
+
+#: config/user.cfg.php:575
+msgid ""
+"If enabled, we will insert json schema.org data in AMP pages, according to "
+"the AMP project specification.<br />Visit those pages on the AMP "
+"documentation for details: <ul><li><a href=\"https://developers.google."
+"com/search/docs/data-types/sitename\" target=\"_blank\">Site name in search "
+"results</a></li><li><a href=\"https://developers.google.com/search/docs/data-"
+"types/social-profile-links\" target=\"_blank\">Social profile links</a></li>"
+"<li><a href=\"https://developers.google.com/search/docs/data-types/corporate-"
+"contacts\" target=\"_blank\">Corporate contacts</a></li></ul>"
+msgstr ""
+
+#: config/user.cfg.php:594
+msgid "Company social profiles"
+msgstr ""
+
+#: config/user.cfg.php:595
+msgid ""
+"Enter one or more links to your company social profiles page, <strong>one "
+"per line</strong>. A social profile is a full URL such as: https://www."
+"facebook/weeblrpress or https://instagram.com/weeblrpress"
+msgstr ""
+
+#: config/user.cfg.php:617
+msgid "Sales phone number"
+msgstr ""
+
+#: config/user.cfg.php:618
+msgid ""
+"Enter a phone number for sales contact. Number must follow international "
+"format. Examples: <i>+1-800-555-1212</i>, <i>+44-2078225951</i>. Visit <a "
+"href=\"https://developers.google.com/search/docs/data-types/corporate-"
+"contacts\" target=\"_blank\">Google documentation for more details</a>."
+msgstr ""
+
+#: config/user.cfg.php:640
+msgid "Customer service number"
+msgstr ""
+
+#: config/user.cfg.php:641
+msgid ""
+"Enter a phone number for customer service contact. Number must follow "
+"international format. Examples: <i>+1-800-555-1212</i>, <i>+44-2078225951</i>"
+msgstr ""
+
+#: config/user.cfg.php:667 config/user.cfg.php:683
+msgid "Analytics"
+msgstr ""
+
+#: config/user.cfg.php:675
+msgid "Analytics type"
+msgstr ""
+
+#: config/user.cfg.php:684
+msgid ""
+"If enabled, an amp-analytics tag will be added to all AMP pages, using "
+"parameters set below. If the social buttons option is enabled, tracking code "
+"for social interactions will also be added."
+msgstr ""
+
+#: config/user.cfg.php:692
+msgid "Google Analytics"
+msgstr ""
+
+#: config/user.cfg.php:695
+msgid "Google Tag Manager"
+msgstr ""
+
+#: config/user.cfg.php:707
+msgid "Settings"
+msgstr ""
+
+#: config/user.cfg.php:719
+msgid "Web property ID"
+msgstr ""
+
+#: config/user.cfg.php:724
+msgid "The Google Analytics web property ID. Similar to UA-XXXXX-Y."
+msgstr ""
+
+#: config/user.cfg.php:725
+msgid ""
+"The AMP project recommends using a <strong>separate web property ID</strong> "
+"from that of your regular site id."
+msgstr ""
+
+#: config/user.cfg.php:743
+msgid "Tag manager ID"
+msgstr ""
+
+#: config/user.cfg.php:748
+msgid "The Google Tag manager ID to use. Similar to GTM-XXXXXX."
+msgstr ""
+
+#: config/user.cfg.php:749
+msgid ""
+"The AMP project recommends using a separate web property ID from that of "
+"your regular site id."
+msgstr ""
+
+#: config/user.cfg.php:767
+msgid "Require consent"
+msgstr ""
+
+#: config/user.cfg.php:770
+#, php-format
+msgid ""
+"If enabled, no Analytics tracking will happen before the <a href=\"%s\">User "
+"Notification</a> has been accepted by a visitor, by clicking the "
+"notification button."
+msgstr ""
+
+#: config/user.cfg.php:785
+msgid "Allow cookie write"
+msgstr ""
+
+#: config/user.cfg.php:788
+msgid ""
+"If enabled, a <i>data-credentials</i> attributes will be added to the <i>amp-"
+"analytics</i> tag, so that cookies can be written across domains. For more "
+"details, see the data-credentials attribute documentation linked below."
+msgstr ""
+
+#: config/user.cfg.php:805
+msgid "Tracked events"
+msgstr ""
+
+#: config/user.cfg.php:806
+msgid ""
+"Enter one or more definitions of the Analytics events you track on your site,"
+" one per line. Can only be used with standard analytics, <strong>not with "
+"Google Tag Manager</strong>. Example for tracking clicks on an element, on "
+"any page: <strong>* | click | #header | Sample category | header-"
+"click</strong>"
+msgstr ""
+
+#: config/user.cfg.php:830
+msgid "Ad networks"
+msgstr ""
+
+#: config/user.cfg.php:838
+msgid "Ads location and type"
+msgstr ""
+
+#: config/user.cfg.php:846
+msgid "Ads network"
+msgstr ""
+
+#: config/user.cfg.php:847
+msgid "Select the ads network to use for your AMP pages"
+msgstr ""
+
+#: config/user.cfg.php:862
+msgid "Ads location"
+msgstr ""
+
+#: config/user.cfg.php:863
+msgid ""
+"Select how to show ads in your content. Ads can be displayed automatically "
+"before or after content, and/or based on paragraphs count, and/or using the "
+"<strong>&lsqb;wbamp-embed&rsqb;</strong> shortcode wherever you require in "
+"your content."
+msgstr ""
+
+#: config/user.cfg.php:874
+msgid "Show after content"
+msgstr ""
+
+#: config/user.cfg.php:875
+msgid "Show before content"
+msgstr ""
+
+#: config/user.cfg.php:878
+msgid "Show ads from shortcodes/autoinsert only"
+msgstr ""
+
+#: config/user.cfg.php:889
+msgid "Auto-insert ads in posts"
+msgstr ""
+
+#: config/user.cfg.php:911
+msgid "Auto-insert ads in pages"
+msgstr ""
+
+#: config/user.cfg.php:934
+msgid "A9"
+msgstr ""
+
+#: config/user.cfg.php:946
+msgid "aax_pubname"
+msgstr ""
+
+#: config/user.cfg.php:963
+msgid "aax_src"
+msgstr ""
+
+#: config/user.cfg.php:981
+msgid "AdSense"
+msgstr ""
+
+#: config/user.cfg.php:993
+msgid "ad-client"
+msgstr ""
+
+#: config/user.cfg.php:1010
+msgid "ad-slot"
+msgstr ""
+
+#: config/user.cfg.php:1028
+msgid "Criteo"
+msgstr ""
+
+#: config/user.cfg.php:1040
+msgid "zone"
+msgstr ""
+
+#: config/user.cfg.php:1058
+msgid "Doubleclick"
+msgstr ""
+
+#: config/user.cfg.php:1070
+msgid "slot"
+msgstr ""
+
+#: config/user.cfg.php:1087
+msgid "json"
+msgstr ""
+
+#: config/user.cfg.php:1105
+msgid "Custom ads network"
+msgstr ""
+
+#: config/user.cfg.php:1117
+msgid "&lt;amp-ad&gt; tag content"
+msgstr ""
+
+#: config/user.cfg.php:1118
+msgid ""
+"Enter here the full and exact content of the &lt;amp-ad&gt; tag required for "
+"your ads network. <br />Example: <br /><i>&lt;amp-ad width=300 height=250\n"
+"    type=\"a9\"\n"
+"    data-aax_size=\"300x250\"\n"
+"    data-aax_pubname=\"test123\"\n"
+"    data-aax_src=\"302\"&gt;&lt;/amp-ad&gt;</i><br />Please refer to <a "
+"target=\"_blank\" href=\"https://www.ampproject.org/docs/reference/amp-ad."
+"html\">the &lt;amp-ad&gt; documentation</a> for a list of accepted ads "
+"network."
+msgstr ""
+
+#: config/user.cfg.php:1142
+msgid "Ads display details"
+msgstr ""
+
+#: config/user.cfg.php:1154
+msgid "Ad width (px)"
+msgstr ""
+
+#: config/user.cfg.php:1155
+msgid "Set ad width in pixels. Mandatory."
+msgstr ""
+
+#: config/user.cfg.php:1172
+msgid "Ad height (px)"
+msgstr ""
+
+#: config/user.cfg.php:1173
+msgid "Set ad height in pixels. Mandatory."
+msgstr ""
+
+#: config/user.cfg.php:1190
+msgid "Placeholder"
+msgstr ""
+
+#: config/user.cfg.php:1191
+msgid "Text to show until the ads is actually displayed."
+msgstr ""
+
+#: config/user.cfg.php:1208
+msgid "Fallback"
+msgstr ""
+
+#: config/user.cfg.php:1209
+msgid "Text to display if the ad fails to show."
+msgstr ""
+
+#: config/user.cfg.php:1228
+msgid "Comments and plugins"
+msgstr ""
+
+#: config/user.cfg.php:1236
+msgid "Comment system"
+msgstr ""
+
+#: config/user.cfg.php:1244
+msgid "Commenting system to use"
+msgstr ""
+
+#: config/user.cfg.php:1245
+msgid ""
+"Select which commenting system to use. Defaults to built-in WordPress system."
+" You can use other supported commenting systems listed here. Those may "
+"require additional setup on your server."
+msgstr ""
+
+#: config/user.cfg.php:1252
+msgid "WordPress built-in comments"
+msgstr ""
+
+#: config/user.cfg.php:1255
+msgid "Disqus"
+msgstr ""
+
+#: config/user.cfg.php:1267
+msgid "Disqus shortname"
+msgstr ""
+
+#: config/user.cfg.php:1268
+msgid ""
+"Enter your Disqus shortname for this site. Disqus for AMP requires that a "
+"small file is hosted on a <strong>separate website, using HTTPS</strong>. "
+"You can use the one we host for you at WeeblrPress, the process is then "
+"entirely automatic. Alternatively, you can also download a Disqus file we "
+"prepared for you, and host it yourself on another site. Fill in the full URL "
+"of the file on that server in next input field."
+msgstr ""
+
+#: config/user.cfg.php:1293
+msgid "Disqus endpoint"
+msgstr ""
+
+#: config/user.cfg.php:1295
+msgid ""
+"Fully qualified URL to the Disqus endpoint file. When using the WeeblrPress "
+"hosted file, this URL is filled in automatically. If you host the file "
+"yourself, provide the full URL to it."
+msgstr ""
+
+#: config/user.cfg.php:1319
+msgid "Disqus connect state"
+msgstr ""
+
+#: config/user.cfg.php:1331
+msgid "Plugins management"
+msgstr ""
+
+#: config/user.cfg.php:1339
+msgid "Disable on AMP pages"
+msgstr ""
+
+#: config/user.cfg.php:1357
+msgid "WordPress content processing"
+msgstr ""
+
+#: config/user.cfg.php:1365
+msgid "Let WP process content..."
+msgstr ""
+
+#: config/user.cfg.php:1366
+msgid ""
+"Select whether you want to disable some parts of WordPress standard content "
+"processing, including all filters and <a href=\"https://codex.wordpress."
+"org/Shortcode\" target=\"__blank\">shortcodes</a>. This can be useful if "
+"some plugins still leaves some undesired content on your AMP pages. Note "
+"that built-in weeblrAMP shortcodes, such as the <i>gallery</i> one will "
+"still be ran - unless you disable them in next field."
+msgstr ""
+
+#: config/user.cfg.php:1373
+msgid "As usual, all filters and shortcodes"
+msgstr ""
+
+#: config/user.cfg.php:1374
+msgid "Only process shortcodes"
+msgstr ""
+
+#: config/user.cfg.php:1375
+msgid "Disable all filters and shortcodes"
+msgstr ""
+
+#: config/user.cfg.php:1385
+msgid "Remove shortcodes on this list"
+msgstr ""
+
+#: config/user.cfg.php:1386
+msgid ""
+"Shortcodes listed here will be disabled and removed from AMP pages. Put one "
+"shortcode per line, and do not surround them with square brackets (eg list "
+"<i>gallery</i>, not <i>[gallery]</i>)"
+msgstr ""
+
+#: config/user.cfg.php:1405 config/user.cfg.php:1414
+msgid "Integrations"
+msgstr ""
+
+#: config/user.cfg.php:1422
+msgid "Plugins integrations"
+msgstr ""
+
+#: config/user.cfg.php:1433
+msgid "Yoast SEO"
+msgstr ""
+
+#: config/user.cfg.php:1439
+msgid "JetPack"
+msgstr ""
+
+#: config/user.cfg.php:1445
+msgid "Contact Form 7"
+msgstr ""
+
+#: config/user.cfg.php:1454
+msgid "Easy Digital Downloads"
+msgstr ""
+
+#: config/user.cfg.php:1463
+msgid "Gravity Forms"
+msgstr ""
+
+#: config/user.cfg.php:1472
+msgid "Mailchimp for WordPress"
+msgstr ""
+
+#: config/user.cfg.php:1481
+msgid "Polylang"
+msgstr ""
+
+#: config/user.cfg.php:1490
+msgid "WooCommerce"
+msgstr ""
+
+#: config/user.cfg.php:1509
+msgid "System"
+msgstr ""
+
+#: config/user.cfg.php:1517
+msgid "Rendering"
+msgstr ""
+
+#: config/user.cfg.php:1527
+msgid ""
+"If set to yes, wbAMP will apply some encoding to email addresses on AMP "
+"pages, to help protect them from automated emails collectors. The protection "
+"method does not use javascript, but should be efficient in many cases."
+msgstr ""
+
+#: config/user.cfg.php:1540
+msgid "Process Weeblramp embed codes"
+msgstr ""
+
+#: config/user.cfg.php:1542
+msgid ""
+"If enabled, weeblrAMP custom embed codes in your content will be turned into "
+"their AMP equivalent. Embed codes look like [wbamp type=\"twitter\" "
+"tweetid=\"123456789\" cards=\"hidden\"]. If disabled, those codes will still "
+"be removed from content."
+msgstr ""
+
+#: config/user.cfg.php:1554
+msgid "Auto embed known links"
+msgstr ""
+
+#: config/user.cfg.php:1556
+msgid ""
+"If enabled, known URLs in your content will be turned into their AMP "
+"equivalent. Example URLs are Twitter links such as https://twitter."
+"com/weeblr/status/616276503786049536"
+msgstr ""
+
+#: config/user.cfg.php:1570
+msgid "Access credentials"
+msgstr ""
+
+#: config/user.cfg.php:1578
+msgid "Access key"
+msgstr ""
+
+#: config/user.cfg.php:1579
+msgid ""
+"Enter here your update access key. Get it from <a href=\"https://www."
+"weeblrpress.com/dashboard\" target=\"_blank\">your dashboard.</a>"
+msgstr ""
+
+#: config/user.cfg.php:1597
+msgid "Others"
+msgstr ""
+
+#: config/user.cfg.php:1605
+msgid "AMP suffix"
+msgstr ""
+
+#: config/user.cfg.php:1606
+msgid ""
+"The suffix to use to recognize AMP pages. Defaul to <strong>amp</strong>. "
+"Not used if in Standalone mode, where all pages are AMPlified anyway."
+msgstr ""
+
+#: config/user.cfg.php:1624
+msgid "Hide module"
+msgstr ""
+
+#: config/user.cfg.php:1625
+msgid ""
+"Hide the links to the AMP validator and Google Structured Data tester "
+"normally displayed at top of page when in <strong>Development mode</strong>."
+"<br /><strong>NB</strong>: the module is never displayed on localhost or 127."
+"0.0.1, as validators need access to the pages tested."
+msgstr ""
+
+#: config/user.cfg.php:1638
+msgid "Debug token"
+msgstr ""
+
+#: config/user.cfg.php:1639
+msgid ""
+"A random token that will be required to access your AMP pages when in "
+"<strong>Development mode</strong>. This is used to prevent general access, "
+"but let AMP validators read the pages to test them. Empty the field to "
+"disable that feature. You can access the AMP version of a page by appending "
+"<strong>/amp/?amptoken=YOUR_DEBUG_TOKEN</strong> to the page regular URL."
+msgstr ""
+
+#: config/user.cfg.php:1656
+msgid "Really obscure settings"
+msgstr ""
+
+#: config/user.cfg.php:1664
+msgid "Logging level"
+msgstr ""
+
+#: config/user.cfg.php:1665
+msgid ""
+"Select how much details weeblrAMP should log to a log file. In normal "
+"operation, set this to <strong>Normal</strong>, which will only record "
+"errors. When researching issues, it might be useful to increase to <strong>"
+"Detailed</strong>. Log files are stored in the /wp-"
+"content/plugins/weeblramp/logs directory on your server, and can only be "
+"accessed with FTP. <strong>NB</strong>: if your site runs with WP_DEBUG set "
+"to true, <strong>Detailed</strong> logging is used unless you set it "
+"otherwise"
+msgstr ""
+
+#: config/user.cfg.php:1674
+msgid "Debugging"
+msgstr ""
+
+#: config/user.cfg.php:1686
+msgid ""
+"If enabled, weeblrAMP will look for a small JSON file on WeeblrPress server "
+"to read updated AMP specification definition. This allows updating the "
+"specification without requiring you to update the entire plugin. The remote "
+"information is cached for 12 hours, so that it does not add any load on your "
+"server."
+msgstr ""
+
+#: config/user.cfg.php:1700
+msgid "Clear cached data"
+msgstr ""
+
+#: config/user.cfg.php:1701
+msgid ""
+"Some parts of your AMP pages are stored in cache (for 12 hours usually), for "
+"faster rendering. Press this button to clear the saved data and have new one "
+"rebuilt. Use if settings changes are not reflected immediately on AMP pages."
+msgstr ""
+
+#: config/user.cfg.php:1715
+msgid "Flush rewrite rules"
+msgstr ""
+
+#: config/user.cfg.php:1716
+msgid ""
+"Flush WordPress rewrite rules. May be needed after installng a new plugin "
+"for instance."
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+#: helper/admin.php:138 helper/admin.php:139
+msgid "weeblrAMP"
+msgstr ""
+
+#: helper/version.php:227
+msgid ""
+"<a class=\"wblib-upgrade-link js-wblib-upgrade-link\" href=\"#0\">Upgrade</a>"
+" to access all options in this section."
+msgstr ""
+
+#: helper/version.php:230
+msgid ""
+"<a class=\"wblib-upgrade-link js-wblib-upgrade-link\" href=\"#0\">Upgrade</a>"
+" to enable this setting or all of its options."
+msgstr ""
+
+#: helper/version.php:260
+msgid "Bring the full AMP experience to your visitors"
+msgstr ""
+
+#: helper/version.php:263
+msgid ""
+"You are using the <strong>Community edition of weeblrAMP</strong>, which we "
+"develop for, and share with the WordPress community."
+msgstr ""
+
+#: helper/version.php:266
+msgid ""
+"Our premium edition of weeblrAMP brings you <strong>support and an extended "
+"feature set</strong>:"
+msgstr ""
+
+#: helper/version.php:273
+msgid ""
+"<strong>Automatic forms conversion</strong>: Contact Form 7 and Gravity Forms"
+msgstr ""
+
+#: helper/version.php:274
+msgid ""
+"Extensive <strong>WooCommerce</strong> support, with an AMP Add-to-cart "
+"button"
+msgstr ""
+
+#: helper/version.php:275 helper/version.php:278
+msgid ""
+"Automatic paragraph-count-based, or shortcodes-based ads insertion in content"
+msgstr ""
+
+#: helper/version.php:276
+msgid ""
+"Extensive <strong>Easy Digital Downloads</strong> support, with categories "
+"navigation and AMP purchase buttons"
+msgstr ""
+
+#: helper/version.php:277
+msgid ""
+"<strong>Mailchimp for WP</strong> support, with automatic conversion of your "
+"signup forms"
+msgstr ""
+
+#: helper/version.php:279
+msgid "Tracking <strong>user events</strong> with Google Analytics"
+msgstr ""
+
+#: helper/version.php:280
+msgid "Google Tag manager support"
+msgstr ""
+
+#: helper/version.php:281
+msgid "Live commenting for both <strong>WordPress and Disqus comments</strong>"
+msgstr ""
+
+#: helper/version.php:282
+msgid "One-click Disqus setup, with nothing to do on your server"
+msgstr ""
+
+#: helper/version.php:283
+msgid "Full <strong>search</strong> support"
+msgstr ""
+
+#: helper/version.php:284
+msgid "Enhanced static social sharing buttons"
+msgstr ""
+
+#: helper/version.php:285
+msgid "AMP-only widgets, to include all types of content"
+msgstr ""
+
+#: helper/version.php:286
+msgid "<strong>PolyLang</strong> support"
+msgstr ""
+
+#: helper/version.php:287
+msgid "Extended schema.org support"
+msgstr ""
+
+#: helper/version.php:288
+msgid "A unique <strong>standalone mode</strong>"
+msgstr ""
+
+#: helper/version.php:289
+msgid "Professional support"
+msgstr ""
+
+#: helper/version.php:293
+msgid "</ul><p></p>"
+msgstr ""
+
+#: helper/version.php:294
+msgid ""
+"<a href=\"https://www.weeblrpress.com/plan/subscribe\" target=\"_blank\">Get "
+"weeblrAMP now!</a>"
+msgstr ""
+
+#: helper/version.php:295
+msgid ""
+"<p class=\"\">Prices range from $49/yr (3 sites) to $69/yr (unlimited sites "
+"+ Extras), with a 20% renewal discount.</p>"
+msgstr ""
+
+#: model/renderer.php:179
+msgid "Do not ask again"
+msgstr ""
+
+#: model/renderer.php:639
+#, php-format
+msgid "View more<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr ""
+
+#: class/full/update.php:110
+msgid ""
+"We could not download this update, as you have not supplied appropriate "
+"access key under the System tab of weeblrAMP configuration."
+msgstr ""
+
+#: class/full/update.php:151
+msgid ""
+"The update server denied access. Maybe you have not provided your access key "
+"for weeblrAMP updates, or your subscription has expired? Enter credentials "
+"on the weeblrAMP System tab of the Settings page, and be sure to list your "
+"site URL on your WeeblrPress Dashboard at https://www.weeblrpress."
+"com/dashboard"
+msgstr ""
+
+#: class/full/update.php:158
+msgid ""
+"The update server seems to be unavailable at the moment, probably undergoing "
+"maintenance. Please try again later. Very sorry for the inconvenience."
+msgstr ""
+
+#: class/full/update.php:165
+msgid ""
+"The file required for this update was not found on the server. Maybe your "
+"weeblrAMP version is not supported any more? Please contact us at www."
+"weeblrpress.com."
+msgstr ""
+
+#: class/full/update.php:172
+msgid ""
+"We could download the file from the update server, but it appears to have "
+"been damaged during the transfer, and cannot be used. Better try again later."
+" If this happens again, please contact us at www.weeblrpress.com."
+msgstr ""
+
+#: public/full/amp-add-to-cart.php:60
+msgid "Product added to cart"
+msgstr ""
+
+#: public/full/amp-gravityforms-submit.php:143
+#: public/full/amp-mc4wp-submit.php:101
+msgid "There was an issue with your submission!"
+msgstr ""
+
+#: public/full/amp-gravityforms-submit.php:155
+#, php-format
+msgid "%1$s: %2$s"
+msgstr ""
+
+#: model/feature/full/disqus.php:124
+#: layouts/weeblramp/admin/settings/disqus_shortname.php:31
+msgid "Stop using Disqus AMP file from WeeblrPress"
+msgstr ""
+
+#: model/feature/full/disqus.php:130
+#: layouts/weeblramp/admin/settings/disqus_shortname.php:34
+msgid "Use Disqus AMP file from WeeblrPress"
+msgstr ""
+
+#: layouts/weeblramp/admin/settings/main.php:45
+msgid "Visit the AMP project website."
+msgstr ""
+
+#: layouts/weeblramp/frontend/amp/debug_module.php:35
+msgid "Validate AMP"
+msgstr ""
+
+#: layouts/weeblramp/frontend/amp/header.php:27
+#, php-format
+msgid "%s logo"
+msgstr ""
+
+#: layouts/weeblramp/frontend/amp/contents/archive.php:157
+#: layouts/weeblramp/frontend/amp/contents/home.php:185
+#: layouts/weeblramp/frontend/amp/contents/search.php:134
+msgid "«"
+msgstr ""
+
+#: layouts/weeblramp/frontend/amp/contents/archive.php:158
+#: layouts/weeblramp/frontend/amp/contents/home.php:186
+#: layouts/weeblramp/frontend/amp/contents/search.php:135
+msgid "»"
+msgstr ""
+
+#: layouts/weeblramp/frontend/amp/contents/archive.php:159
+#: layouts/weeblramp/frontend/amp/contents/archive_item.php:83
+#: layouts/weeblramp/frontend/amp/contents/archive_item.php:87
+#: layouts/weeblramp/frontend/amp/contents/home.php:187
+#: layouts/weeblramp/frontend/amp/contents/home_item.php:97
+#: layouts/weeblramp/frontend/amp/contents/home_item.php:101
+#: layouts/weeblramp/frontend/amp/contents/page_item.php:184
+#: layouts/weeblramp/frontend/amp/contents/page_item.php:188
+#: layouts/weeblramp/frontend/amp/contents/search.php:136
+#: layouts/weeblramp/frontend/amp/contents/search_item.php:94
+#: layouts/weeblramp/frontend/amp/contents/search_item.php:98
+#: layouts/weeblramp/frontend/amp/contents/single_item.php:258
+#: layouts/weeblramp/frontend/amp/contents/single_item.php:262
+msgid "Page"
+msgstr ""
+
+#: layouts/weeblramp/frontend/amp/contents/item_author_bio.php:82
+#, php-format
+msgid "View all posts by %s"
+msgstr ""
+
+#. %s: post title
+#: layouts/weeblramp/frontend/amp/contents/item_comments_wp.php:91
+#, php-format
+msgctxt "comments title"
+msgid "One comment on &ldquo;%s&rdquo;"
+msgstr ""
+
+#. 1: number of comments, 2: post title
+#: layouts/weeblramp/frontend/amp/contents/item_comments_wp.php:95
+#, php-format
+msgctxt "comments title"
+msgid "%1$s comment on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s comments on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: layouts/weeblramp/frontend/amp/contents/item_comments_wp_status.php:21
+msgid ""
+"Thank you for leaving a comment! {{#message}}<br />{{{message}}}{{/message}} "
+"{{#link}}<a class=\"button wbamp-form-status-success\" href=\"{{link}}\">"
+"Click to refresh</a>{{/link}}"
+msgstr ""
+
+#: layouts/weeblramp/frontend/amp/contents/not-found.php:20
+msgid "Nothing Found"
+msgstr ""
+
+#: layouts/weeblramp/frontend/amp/contents/not-found.php:24
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for."
+msgstr ""
+
+#: layouts/weeblramp/frontend/amp/contents/search.php:100
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: layouts/weeblramp/frontend/amp/tags/menu_sidebar.php:28
+#: layouts/weeblramp/frontend/amp/tags/full/menu_dropdown.php:39
+msgid "Close menu"
+msgstr ""
+
+#: layouts/weeblramp/frontend/amp/tags/menu_sidebar.php:33
+#: layouts/weeblramp/frontend/amp/tags/full/menu_dropdown.php:29
+msgid "Open menu"
+msgstr ""
+
+#: layouts/weeblramp/frontend/amp/contents/full/item_comments_disqus.php:34
+msgid "Loading comments, just a second!"
+msgstr ""
+
+#: layouts/weeblramp/frontend/amp/forms/full/status.php:21
+msgid ""
+"{{^message}}Thank you for sending a message!{{/message}}{{#message}}"
+"{{{message}}}{{/message}}"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Provides Accelerated Mobile Pages support for Wordpress"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://www.weeblrpress.com/weeblramp"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "WeeblrPress"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://www.weeblrpress.com/"
+msgstr ""
