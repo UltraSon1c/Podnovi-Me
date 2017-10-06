@@ -1,0 +1,51 @@
+
+---Downloaded files---
+The import files for: Style 01 were successfully downloaded!
+Initial max execution time = 0
+Files info:
+Site URL = http://prodavnica1.bitnamiapp.com
+Data file = /opt/bitnami/apps/wordpress/htdocs/wp-content/uploads/2017/07/demo-content-import-file_2017-07-06__21-20-45.xml
+Widget file = /opt/bitnami/apps/wordpress/htdocs/wp-content/uploads/2017/07/demo-widgets-import-file_2017-07-06__21-20-45.json
+Customizer file = not defined!
+Redux files:
+virtue -> /opt/bitnami/apps/wordpress/htdocs/wp-content/uploads/2017/07/demo-redux-import-file_0-2017-07-06__21-20-45.json 
+
+
+---Importing widgets---
+orphaned_widgets_4 : Sidebar does not exist in theme (moving widget to Inactive)
+
+Custom Menu - Resources - Imported to Inactive
+
+Primary Sidebar : 
+
+Search - No Title - Widget already exists
+Virtue: Recent Posts - No Title - Imported
+
+Footer Column 1 : 
+
+Text - Virtue Theme - Imported
+
+Footer Column 2 : 
+
+Virtue: Contact/Vcard - Contact Us - Imported
+Virtue: Social Links - Social - Imported
+
+Footer Column 3 : 
+
+Virtue: Image Grid - Recent Projects - Imported
+
+Footer Column 4 : 
+
+Custom Menu - Resources - Imported
+
+orphaned_widgets_1 : Sidebar does not exist in theme (moving widget to Inactive)
+
+Search - No Title - Imported to Inactive
+
+
+
+---Importing Redux settings---
+Redux settings import for: virtue finished successfully!
+
+---pt-ocdi/after_import---
+
