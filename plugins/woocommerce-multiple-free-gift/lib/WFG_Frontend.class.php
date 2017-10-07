@@ -404,7 +404,7 @@ class WFG_Frontend
      */
     public function display_gifts()
     {
-        if ( ! is_checkout() ) {
+        if ( ! is_product() ) {
             return;
         }
 
