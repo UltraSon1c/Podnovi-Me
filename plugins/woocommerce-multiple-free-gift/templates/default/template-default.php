@@ -40,7 +40,7 @@ if ( $overlay ):
                     </div>
                 <?php endforeach; ?>
                 <div class="wfg-actions">
-                    <button class="button wfg-button wfg-add-gifts">
+                    <button class="button wfg-button wfg-add-gifts" style="background-color: #a4286a;color: white;font-size: 19px;">
                         <?php
                         $add_gift_text = WFG_Settings_Helper::get( 'popup_add_gift_text', false, 'global_options' );
                         if ( false !== $add_gift_text ) {
